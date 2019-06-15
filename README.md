@@ -30,11 +30,11 @@
 
  
 
-   El programa debe contener en ensamblador las rutinas 3,4 y5 . La opción 2 sólo tiene en ensamblador la rutina que transforma cada número para llenar la matriz.
+      El programa debe contener en ensamblador las rutinas 3,4 y5 . La opción 2 sólo tiene en ensamblador la rutina que transforma cada número para llenar la matriz.
 
  
 
-El sistema se desarrolla en Visual Studio 2012 con ensamblador 8086/88 embebido en el código C. Deben entregarse los programas fuentes comprimidos vía módulo 7.
+      El sistema se desarrolla en Visual Studio 2012 con ensamblador 8086/88 embebido en el código C. Deben entregarse los programas fuentes comprimidos vía módulo 7.
 
  
 
