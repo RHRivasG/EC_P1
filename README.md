@@ -1,4 +1,4 @@
-# EC_P1
+# Estructura del Computador (Proyecto 1)
 
    Se debe realizar un programa que lee desde dos (02) hasta un máximo de cinco (05) números enteros (unsigned long int).  Luego se procede a desglosar los números almacenándolos en una matriz de cinco (05) columnas y hasta diez (10) filas para almacenar los dígitos de los números leídos. Una columna de dicha matriz corresponde a un dato de entrada. Los datos se almacenan emulando el formato Little endian, es decir, el digito menos significativo se coloca en la fila 0 de la matriz.
 
@@ -31,15 +31,12 @@ El sistema debe tener las siguientes opciones:
  
 
    El programa debe contener en ensamblador las rutinas 3,4 y5 . La opción 2 sólo tiene en ensamblador la rutina que transforma cada número para llenar la matriz.
-
  
 
    El sistema se desarrolla en Visual Studio 2012 con ensamblador 8086/88 embebido en el código C. Deben entregarse los programas fuentes comprimidos vía módulo 7.
 
  
 
-Grupos de dos (02) personas.
+_Grupos de dos (02) personas._ 
 
- 
-
-Fecha de entrega:  09 de enero 2019.
+_Fecha de entrega:  09 de enero 2019._
