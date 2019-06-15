@@ -12,7 +12,8 @@ Se debe realizar un programa que lee desde dos (02) hasta un máximo de cinco (0
 -Crear un vector de enteros formado por las filas de los datos de entrada (en un solo número unsigned long int).
  
 
-El sistema debe tener las siguientes opciones:
+
+                El sistema debe tener las siguientes opciones:
 
 1.Leer datos (en variables enteras)
 
