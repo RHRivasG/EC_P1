@@ -6,17 +6,24 @@ Se debe realizar un programa que lee desde dos (02) hasta un máximo de cinco (0
                 El sistema debe indicar:
 
 -Para cada fila de la matriz si hay al menos dos posiciones que son idénticas. Es decir si hay dos números en la entrada que coinciden en un dígito en la misma posición. Debe mostrarse dígito coincidente y (en la fila siguiente) entradas correspondientes.
+
 -Para cada número, cuántos y cuáles dígitos coinciden con los otros números leídos. Se imprime el número y luego (en la fila siguiente) numero con la cantidad de coincidencias.
+
 -Crear un vector de enteros formado por las filas de los datos de entrada (en un solo número unsigned long int).
  
 
 El sistema debe tener las siguientes opciones:
 
 1.Leer datos (en variables enteras)
+
 2.Mostrar datos (aquí se desglosan en la matriz de datos) por pantalla
+
 3.Mostrar posiciones idénticas de la matriz en fila
+
 4.Mostrar para cada número sus coincidencias con las otras entradas
+
 5.Crear el vector de enteros formado por filas
+
 6.Mostrar el vector de enteros formado por las filas
  
 
