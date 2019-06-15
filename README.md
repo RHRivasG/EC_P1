@@ -26,6 +26,7 @@ Se debe realizar un programa que lee desde dos (02) hasta un máximo de cinco (0
 5.Crear el vector de enteros formado por filas
 
 6.Mostrar el vector de enteros formado por las filas
+
  
 
 El programa debe contener en ensamblador las rutinas 3,4 y5 . La opción 2 sólo tiene en ensamblador la rutina que transforma cada número para llenar la matriz.
